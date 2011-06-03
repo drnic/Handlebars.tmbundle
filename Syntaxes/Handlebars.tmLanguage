@@ -11,14 +11,14 @@
 		(&lt;(?i:head|body|table|thead|tbody|tfoot|tr|div|select|fieldset|style|script|ul|ol|form|dl)\b.*?&gt;
 		|&lt;!--(?!.*--&gt;)
 		|\{\s*($|\?&gt;\s*$|//|/\*(.*\*/\s*$|(?!.*?\*/)))
-		|\{\{\#view
+		|\{\{\#(view|collection)
 		)</string>
 	<key>foldingStopMarker</key>
 	<string>(?x)
 		(&lt;/(?i:head|body|table|thead|tbody|tfoot|tr|div|select|fieldset|style|script|ul|ol|form|dl)&gt;
 		|^\s*--&gt;
 		|(^|\s)\}
-		|\{\{/view\}\}
+		|\{\{/(view|collection)\}\}
 		)</string>
 	<key>keyEquivalent</key>
 	<string>^~H</string>
