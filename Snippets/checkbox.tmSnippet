@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{view SC.Checkbox title="${1:Title}" class="${2:class}"
+  valueBinding="${3:App.controller.property}"}}
+</string>
+	<key>name</key>
+	<string>checkbox</string>
+	<key>scope</key>
+	<string>text.html.handlebars</string>
+	<key>tabTrigger</key>
+	<string>chb</string>
+	<key>uuid</key>
+	<string>926A0F51-F31F-4040-8A8A-DDFDE7EB0526</string>
+</dict>
+</plist>
