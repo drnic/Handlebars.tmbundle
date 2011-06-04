@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{#collection ${1:SC.TemplateCollectionView} contentBinding="${2:App.${3:arrayListController}}"}}
+  $0
+{{/collection}}
+</string>
+	<key>name</key>
+	<string>collection</string>
+	<key>scope</key>
+	<string>text.html.handlebars</string>
+	<key>tabTrigger</key>
+	<string>coll</string>
+	<key>uuid</key>
+	<string>D9535EE0-FB54-4D09-A5B6-CA701E970828</string>
+</dict>
+</plist>
