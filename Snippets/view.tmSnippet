@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{{#view ${1:App.ViewClass}}}
+	<string>{{#view ${1:SC.TemplateView}}}
 	$0
 {{/view}}
 </string>
