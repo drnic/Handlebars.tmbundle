@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>{{#collection ${1:SC.TemplateCollectionView} contentBinding="${2:App.${3:${4:array}ListController}}"}}
+	<string>{{#collection ${1:SC.TemplateCollectionView}${2: contentBinding="${3:App.${4:${5:array}ListController}}"}}
   $0
 {{/collection}}
 </string>
