@@ -8,6 +8,12 @@
 <img src="https://img.skitch.com/20110603-dkiebmdkq7wbrk97wqph9ggakd.png">
 <caption>Starburst theme</caption>
 
+## Snippets
+
+### bindAttr
+
+Generate `{{bindAttr href="imageUrl"}}` attribute bindings within tags, using `ba` tab trigger.
+
 ## Installation
 
 To install via Git:
