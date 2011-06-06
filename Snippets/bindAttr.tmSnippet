@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>{{bindAttr ${1:class}=${2:"${3:isSelected}"}}}</string>
+	<key>name</key>
+	<string>bindAttr</string>
+	<key>scope</key>
+	<string>text.html.handlebars meta.tag</string>
+	<key>tabTrigger</key>
+	<string>ba</string>
+	<key>uuid</key>
+	<string>74573EF8-CE48-4A3E-8491-F35ECC715DA1</string>
+</dict>
+</plist>
