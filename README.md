@@ -16,6 +16,16 @@ Generate `{{bindAttr href="imageUrl"}}` attribute bindings within tags, using `b
 
 ## Installation
 
+### TextMate 2
+
+Clone this repository to the Bundles directory (Textmate 2 will automatically load the bundle)
+
+		mkdir -p ~/Library/Application Support/Avian/Bundles
+		cd ~/Library/Application Support/Avian/Bundles
+		git clone git://github.com/drnic/Handlebars.tmbundle.git
+
+### TextMate 1
+
 To install via Git:
 
 		mkdir -p ~/Library/Application\ Support/TextMate/Bundles
