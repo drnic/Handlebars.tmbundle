@@ -16,10 +16,10 @@ Generate `{{bindAttr href="imageUrl"}}` attribute bindings within tags, using `b
 
 ## Installation
 
-To install via Git:
+To install via Git (TextMate 2):
 
-		mkdir -p ~/Library/Application\ Support/TextMate/Bundles
-		cd ~/Library/Application\ Support/TextMate/Bundles
+		mkdir -p ~/Library/Application\ Support/TextMate/Managed/Bundles
+		cd ~/Library/Application\ Support/TextMate/Managed/Bundles
 		git clone git://github.com/drnic/Handlebars.tmbundle.git
 		osascript -e 'tell app "TextMate" to reload bundles'
 
